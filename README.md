@@ -9,4 +9,6 @@
   *Example:* Placing a call-to-action button prominently near product information encourages user engagement.
 - **Functionality:** Highlights interactive elements, such as forms, buttons, and dynamic features, indicating how the user will interact with the system.  
   *Example:* Including a search bar in the wireframe demonstrates where users can quickly find specific content or bookings.
-  
+# Types of Wireframes.
+Low-fidelity wireframes are simple sketches used early to explore layouts and gather quick feedback, while high-fidelity wireframes are detailed, polished designs created later to validate ideas, test usability, and prepare for development.
+The wireframe created in the link is a *high-fidelity wireframe*
