@@ -23,4 +23,6 @@ The wireframe created in the link is a *high-fidelity wireframe*
 Wireframing clarifies requirements, identifies usability issues early, improves team communication, allows quick and cost-effective changes, and guides developers in aligning implementation with user needs.
 **How Wireframes Guide Design and Communication**
 Wireframes provide a visual blueprint showing layout, navigation, content, and functionality, guiding design decisions. They facilitate team communication by serving as a shared reference, enabling feedback and collaboration—especially in tools like Figma with real-time editing.
-
+**Real-World Scenario: Wireframing in Action**
+- In a booking management system, wireframes of the checkout process revealed that users might overlook the payment confirmation button due to its placement. The team moved the button near the booking details and added a clear call-to-action, resolving the issue before development.
+Impact: The checkout became more intuitive, increasing successful bookings and user satisfaction.
