@@ -19,3 +19,8 @@ The wireframe created in the link is a *high-fidelity wireframe*
 •Balsamiq: Best for quick, low-fidelity sketches.
 •InVision: Turns wireframes into clickable, interactive prototypes.
 - Figma is a cloud-based design tool ideal for wireframing. It supports real-time collaboration, works in any browser, and allows both low- and high-fidelity designs. Its accessibility, interactive features, and easy sharing make it a versatile choice for teams.
+# Benefits of Wireframing in Software Development.
+Wireframing clarifies requirements, identifies usability issues early, improves team communication, allows quick and cost-effective changes, and guides developers in aligning implementation with user needs.
+**How Wireframes Guide Design and Communication**
+Wireframes provide a visual blueprint showing layout, navigation, content, and functionality, guiding design decisions. They facilitate team communication by serving as a shared reference, enabling feedback and collaboration—especially in tools like Figma with real-time editing.
+
